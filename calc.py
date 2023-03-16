@@ -190,7 +190,7 @@ class Calculator:
 
     def update_label(izaz):
         izaz.label.config(text=izaz.current_expression)
-
+# izaz
     def run(izaz):
         izaz.window.mainloop()
 
